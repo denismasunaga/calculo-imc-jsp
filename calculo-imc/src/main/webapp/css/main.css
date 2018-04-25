@@ -1,0 +1,14 @@
+.parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.white-text {
+  color : white;
+}
+
+.bold-white-text {
+  color : white;
+  font-weight: bold;
+}
